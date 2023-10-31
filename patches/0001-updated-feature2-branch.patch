@@ -1,0 +1,37 @@
+From 6303c1123fa8607c01e2593f652ddfdab306e554 Mon Sep 17 00:00:00 2001
+From: Aarthi-12345 <aarthi.2205@gmail.com>
+Date: Tue, 31 Oct 2023 07:51:27 +0000
+Subject: [PATCH] updated feature2 branch
+
+---
+ main.c | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+diff --git a/main.c b/main.c
+index 1e9697d..75238ab 100644
+--- a/main.c
++++ b/main.c
+@@ -2,16 +2,16 @@ pseudo code
+ {
+ Initial Function()
+ {
+-  feature1()
++  feature2()
+ }
+ 
+ Initial Security()
+ {
+- feature1()
++ feature2()
+ }
+-feature1()
++feature2()
+ {
+- 	This is the feature1 branch
++ 	This is the feature2 branch
+ }
+ 
+ 
+-- 
+2.42.0
+

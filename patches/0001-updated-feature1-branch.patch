@@ -1,0 +1,35 @@
+From fc6c09514624b22ac5b0271b1039d56b649112e1 Mon Sep 17 00:00:00 2001
+From: Aarthi-12345 <aarthi.2205@gmail.com>
+Date: Tue, 31 Oct 2023 07:44:14 +0000
+Subject: [PATCH] updated feature1 branch
+
+---
+ main.c | 8 ++++++--
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+
+diff --git a/main.c b/main.c
+index d5a4dde..1e9697d 100644
+--- a/main.c
++++ b/main.c
+@@ -2,12 +2,16 @@ pseudo code
+ {
+ Initial Function()
+ {
+-  //Sample Code
++  feature1()
+ }
+ 
+ Initial Security()
+ {
+- //Sample Code
++ feature1()
++}
++feature1()
++{
++ 	This is the feature1 branch
+ }
+ 
+ 
+-- 
+2.42.0
+
