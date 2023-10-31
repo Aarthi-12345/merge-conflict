@@ -2,16 +2,16 @@ pseudo code
 {
 Initial Function()
 {
-  feature1()
+  feature2()
 }
 
 Initial Security()
 {
- feature1()
+ feature2()
 }
-feature1()
+feature2()
 {
- 	This is the feature1 branch
+ 	This is the feature2 branch
 }
 
 
