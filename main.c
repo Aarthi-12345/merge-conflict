@@ -14,6 +14,11 @@ feature1()
  	This is the feature1 branch
 }
 
+feature1()
+{
+  //Sample Code for Feature 1
+}
+
 
 
 }
